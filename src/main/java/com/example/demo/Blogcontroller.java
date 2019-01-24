@@ -8,7 +8,7 @@ public class Blogcontroller {
 	@GetMapping(value="/")
 	public String index()
 	{
-		return "suck my cock";
+		return "lick my cock head";
 	}
 
 }
